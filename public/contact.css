@@ -1,0 +1,7 @@
+.form {
+  margin-left: 10%;
+}
+.card {
+  position: fixed;
+  z-index: 1;
+}
